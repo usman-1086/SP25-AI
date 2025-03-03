@@ -166,7 +166,7 @@ Reading data from CSV files.
 ## How to Use This Repository
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Jamil226/FA24-AI.git
+   git clone https://github.com/Jamil226/SP25-AI
 
 ## Contributing
 
